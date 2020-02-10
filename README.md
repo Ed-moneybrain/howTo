@@ -1,1 +1,1 @@
-# howTo
+how to use github practice
